@@ -16,11 +16,11 @@
 * [Кросплатформенный клиент для работы с sftp-сервером (Java Core) ](https://github.com/yurec26/infotecs_sftp_client)  :floppy_disk:  :computer:
 
 -----------------
-![Codewars](https://www.codewars.com/users/yurec_26/badges/large)
+### ![Codewars](https://www.codewars.com/users/yurec_26/badges/large)
+-----------------
 
-
-
-
+<img src="https://iccs.spbstu.ru/userfiles/images/branding/iccs.svg" width="250">     
+<!-- <img src="https://mitsobi.ru/assets/app/img/logo_politeh.png" width="250">
 
 
 <!--
