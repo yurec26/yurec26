@@ -9,7 +9,7 @@
 
 * [Приложение по учёту животных и их владельцев (Spring, CRUD, REST)](https://github.com/yurec26/pet_shelter_boot/tree/master) :cat2: :dog2:
 
-* [Приложение по учёту животных и их владельцев с графичнским интерфейсом (Java Core, Java Fx)](https://github.com/yurec26/pet_shelter) :rabbit2: :rice_scene:
+* [Приложение по учёту животных и их владельцев с графическим интерфейсом (Java Core, Java Fx)](https://github.com/yurec26/pet_shelter) :rabbit2: :rice_scene:
 
 * [Backend приложения по переводу денег между картами (Spring)](https://github.com/yurec26/cash-app) :credit_card: :arrows_counterclockwise: :credit_card:
 
